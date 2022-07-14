@@ -1,6 +1,6 @@
 {
   "name": "@romankrru/ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI tool to bootstrap simple TypeScript boilerplate",
   "author": "romankrru",
   "type": "module",
@@ -8,5 +8,9 @@
   "dependencies": {
     "commander": "9.3.0",
     "shelljs": "0.8.5"
+  },
+"repository": {
+    "type": "git",
+    "url": "https://github.com/romankrru/ts.git"
   }
 }
